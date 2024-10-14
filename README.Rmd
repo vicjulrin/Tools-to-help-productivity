@@ -193,7 +193,7 @@ AI is advancing towards creating more context-specific tools tailored to user ne
 
 ![[Interface of Scite: AI for Research. September 2024](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwitpJ6TvIyJAxVASkcBHdC1CNgYABAAGgJxdQ&co=1&ase=2&gclid=CjwKCAjw3624BhBAEiwAkxgTOmrPr6s0gQ0LkVK5IoP2VcjPmCqxWePctlzRG2o2USt8uGjWF_qEMxoCED8QAvD_BwE&ei=RlIMZ6iKB_-v5NoP4rKH0Qk&ohost=www.google.com&cid=CAESVuD2AuZjDEJZG12mVYyy-elmNfb1vVwcF_f4tvGE2-CdBLe8-oLoAxAulP6nR4iyt9JHZ_jMAqNnXDFRG_WlkarHvPJ5v4Jd9tc6ky-aoGGL4Y4g99XN&sig=AOD64_3BN9Sj6C_OZJZmA3FYTO_FHmV4qw&q&sqi=2&nis=4&adurl&ved=2ahUKEwioxZmTvIyJAxX_F1kFHWLZIZoQ0Qx6BAgIEAE)](README_figures/scite_ai.jpg)
  
-## Writing and Scientific Writing
+## Writing
 
 ### Grammarly and LanguageTool
 -  Help with writing by providing grammar and style corrections and offering suggestions to improve clarity and coherence in multiple languages.
@@ -237,8 +237,15 @@ APIs (Application Programming Interfaces) are sets of protocols that act as brid
 
  ![Data Loading for Potential Covariates via STAC Catalog. Adapted from ([STACSPEC, 2023](https://stacspec.org/en)).](README_figures/stac.JPG)
 
-
-
 <span style="color: blue;"> **Surely, many tools are missing from this presentation. If you have any feedback or additional ideas for updating it, feel free to create a branch and share your thoughts! Let's collaborate to keep improving it as part of our knowledge network  and boost our productivity.**<span style="color: blue;">
+
+### References
+- Barari, M., Casper Ferm, L.-E., Quach, S., Thaichon, P., and Ngo, L. (2024). The dark side of artificial intelligence in marketing: meta-analytics review. MIP 42, 1234–1256. doi: 10.1108/MIP-09-2023-0494
+- Brown, T. B., Mann, B., Ryder, N., Subbiah, M., Kaplan, J., Dhariwal, P., et al. (2020). Language Models are Few-Shot Learners. Available at: http://arxiv.org/abs/2005.14165 (Accessed October 12, 2024).
+- Del Rio-Chanona, R. M., Laurentsyeva, N., and Wachs, J. (2024). Large language models reduce public knowledge sharing on online Q&A platforms. PNAS Nexus 3, pgae400. doi: 10.1093/pnasnexus/pgae400
+- Doshi, A. R., and Hauser, O. P. (2024). Generative AI enhances individual creativity but reduces the collective diversity of novel content. Sci. Adv. 10, eadn5290. doi: 10.1126/sciadv.adn5290
+- Mostafapour, M., Fortier, J. H., Pacheco, K., Murray, H., and Garber, G. (2024). Evaluating Literature Reviews Conducted by Humans Versus ChatGPT: Comparative Study. JMIR AI 3, e56537. doi: 10.2196/56537
+- Noy, S., and Zhang, W. (2023). Experimental evidence on the productivity effects of generative artificial intelligence.
+
 
 

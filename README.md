@@ -16,7 +16,6 @@ output:
 
 Tools to Help Productivity
 ================
-
 This project describes a series of tools designed to improve academic
 productivity, understood as the number of research results obtained
 within a given time period.
@@ -39,13 +38,14 @@ within a given time period.
   - [ChatGPT and Plugins](#chatgpt-and-plugins)
   - [Scispace](#scispace)
   - [scite.ai](#sciteai)
-- [Writing and Scientific Writing](#writing-and-scientific-writing)
+- [Writing](#writing)
   - [Grammarly and LanguageTool](#grammarly-and-languagetool)
   - [ChatGPT and Microsoft Copilot](#chatgpt-and-microsoft-copilot)
     - [ChatGPT Advantages](#chatgpt-advantages)
     - [Microsoft Copilot Advantages](#microsoft-copilot-advantages)
   - [Obsidian](#obsidian)
 - [APIs](#apis)
+  - [References](#references)
 
 ## Best Practices: Collaborative Knowledge Networks
 
@@ -379,7 +379,7 @@ href="https://www.googleadservices.com/pagead/aclk?sa=L&amp;ai=DChcSEwitpJ6TvIyJ
 of Scite: AI for Research. September 2024</a></figcaption>
 </figure>
 
-## Writing and Scientific Writing
+## Writing
 
 ### Grammarly and LanguageTool
 
@@ -481,3 +481,25 @@ presentation. If you have any feedback or additional ideas for updating
 it, feel free to create a branch and share your thoughts! Let’s
 collaborate to keep improving it as part of our knowledge network and
 boost our productivity.**<span style="color: blue;">
+
+### References
+
+- Barari, M., Casper Ferm, L.-E., Quach, S., Thaichon, P., and Ngo, L.
+  (2024). The dark side of artificial intelligence in marketing:
+  meta-analytics review. MIP 42, 1234–1256. doi:
+  10.1108/MIP-09-2023-0494
+- Brown, T. B., Mann, B., Ryder, N., Subbiah, M., Kaplan, J., Dhariwal,
+  P., et al. (2020). Language Models are Few-Shot Learners. Available
+  at: <http://arxiv.org/abs/2005.14165> (Accessed October 12, 2024).
+- Del Rio-Chanona, R. M., Laurentsyeva, N., and Wachs, J. (2024). Large
+  language models reduce public knowledge sharing on online Q&A
+  platforms. PNAS Nexus 3, pgae400. doi: 10.1093/pnasnexus/pgae400
+- Doshi, A. R., and Hauser, O. P. (2024). Generative AI enhances
+  individual creativity but reduces the collective diversity of novel
+  content. Sci. Adv. 10, eadn5290. doi: 10.1126/sciadv.adn5290
+- Mostafapour, M., Fortier, J. H., Pacheco, K., Murray, H., and
+  Garber, G. (2024). Evaluating Literature Reviews Conducted by Humans
+  Versus ChatGPT: Comparative Study. JMIR AI 3, e56537. doi:
+  10.2196/56537
+- Noy, S., and Zhang, W. (2023). Experimental evidence on the
+  productivity effects of generative artificial intelligence.
